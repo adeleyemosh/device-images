@@ -15,6 +15,7 @@ import os
 import sys
 
 import converter
+import generate_manifest
 import scraper
 
 
@@ -104,6 +105,14 @@ def main() -> int:
             f"Convert: converted={total_converted}, up_to_date={total_up_to_date}, "
             f"failed={total_failed_convert}"
         )
+
+    manifest = generate_manifest.generate_manifest(brands, images_root)
+    manifest_path = os.path.join(repo_root, "manifest.json")
+    with open(manifest_path, "w") as f:
+        json.dump(manifest, f, indent=2)
+        f.write("\n")
+    total = sum(len(v) for v in manifest["brands"].values())
+    print(f"Manifest: {len(manifest['brands'])} brands, {total} images")
 
     return 1 if had_failure else 0
 
