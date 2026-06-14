@@ -1,0 +1,278 @@
+{
+  "brands": [
+    {
+      "slug": "samsung",
+      "name": "Samsung",
+      "gsmarena_url": "https://www.gsmarena.com/samsung-phones-9.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "motorola",
+      "name": "Motorola",
+      "gsmarena_url": "https://www.gsmarena.com/motorola-phones-4.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "huawei",
+      "name": "Huawei",
+      "gsmarena_url": "https://www.gsmarena.com/huawei-phones-58.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "nokia",
+      "name": "Nokia",
+      "gsmarena_url": "https://www.gsmarena.com/nokia-phones-1.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "sony",
+      "name": "Sony",
+      "gsmarena_url": "https://www.gsmarena.com/sony-phones-7.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "lg",
+      "name": "LG",
+      "gsmarena_url": "https://www.gsmarena.com/lg-phones-20.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "htc",
+      "name": "HTC",
+      "gsmarena_url": "https://www.gsmarena.com/htc-phones-45.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "lenovo",
+      "name": "Lenovo",
+      "gsmarena_url": "https://www.gsmarena.com/lenovo-phones-73.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "xiaomi",
+      "name": "Xiaomi",
+      "gsmarena_url": "https://www.gsmarena.com/xiaomi-phones-80.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "honor",
+      "name": "Honor",
+      "gsmarena_url": "https://www.gsmarena.com/honor-phones-121.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "oppo",
+      "name": "Oppo",
+      "gsmarena_url": "https://www.gsmarena.com/oppo-phones-82.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "realme",
+      "name": "Realme",
+      "gsmarena_url": "https://www.gsmarena.com/realme-phones-118.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "oneplus",
+      "name": "OnePlus",
+      "gsmarena_url": "https://www.gsmarena.com/oneplus-phones-95.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "nothing",
+      "name": "Nothing",
+      "gsmarena_url": "https://www.gsmarena.com/nothing-phones-128.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "vivo",
+      "name": "Vivo",
+      "gsmarena_url": "https://www.gsmarena.com/vivo-phones-98.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "meizu",
+      "name": "Meizu",
+      "gsmarena_url": "https://www.gsmarena.com/meizu-phones-74.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "ulefone",
+      "name": "Ulefone",
+      "gsmarena_url": "https://www.gsmarena.com/ulefone-phones-124.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "alcatel",
+      "name": "Alcatel",
+      "gsmarena_url": "https://www.gsmarena.com/alcatel-phones-5.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "zte",
+      "name": "ZTE",
+      "gsmarena_url": "https://www.gsmarena.com/zte-phones-62.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "rugone",
+      "name": "RugOne",
+      "gsmarena_url": "https://www.gsmarena.com/rugone-phones-136.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "umidigi",
+      "name": "Umidigi",
+      "gsmarena_url": "https://www.gsmarena.com/umidigi-phones-135.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "coolpad",
+      "name": "Coolpad",
+      "gsmarena_url": "https://www.gsmarena.com/coolpad-phones-105.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "oscal",
+      "name": "Oscal",
+      "gsmarena_url": "https://www.gsmarena.com/oscal-phones-134.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "sharp",
+      "name": "Sharp",
+      "gsmarena_url": "https://www.gsmarena.com/sharp-phones-23.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "micromax",
+      "name": "Micromax",
+      "gsmarena_url": "https://www.gsmarena.com/micromax-phones-66.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "infinix",
+      "name": "Infinix",
+      "gsmarena_url": "https://www.gsmarena.com/infinix-phones-119.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "asus",
+      "name": "Asus",
+      "gsmarena_url": "https://www.gsmarena.com/asus-phones-46.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "tecno",
+      "name": "Tecno",
+      "gsmarena_url": "https://www.gsmarena.com/tecno-phones-120.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "doogee",
+      "name": "Doogee",
+      "gsmarena_url": "https://www.gsmarena.com/doogee-phones-129.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "blackview",
+      "name": "Blackview",
+      "gsmarena_url": "https://www.gsmarena.com/blackview-phones-116.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "cubot",
+      "name": "Cubot",
+      "gsmarena_url": "https://www.gsmarena.com/cubot-phones-130.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "oukitel",
+      "name": "Oukitel",
+      "gsmarena_url": "https://www.gsmarena.com/oukitel-phones-132.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "itel",
+      "name": "Itel",
+      "gsmarena_url": "https://www.gsmarena.com/itel-phones-131.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "tcl",
+      "name": "TCL",
+      "gsmarena_url": "https://www.gsmarena.com/tcl-phones-123.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "fairphone",
+      "name": "Fairphone",
+      "gsmarena_url": "https://www.gsmarena.com/fairphone-phones-127.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "gionee",
+      "name": "Gionee",
+      "gsmarena_url": "https://www.gsmarena.com/gionee-phones-92.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "philips",
+      "name": "Philips",
+      "gsmarena_url": "https://www.gsmarena.com/philips-phones-11.php",
+      "title_include": ["Android smartphone"],
+      "title_exclude": []
+    },
+    {
+      "slug": "apple",
+      "name": "Apple",
+      "gsmarena_url": "https://www.gsmarena.com/apple-phones-48.php",
+      "title_include": ["smartphone"],
+      "title_exclude": ["tablet", "smartwatch"]
+    },
+    {
+      "slug": "google",
+      "name": "Google",
+      "gsmarena_url": null,
+      "title_include": ["Android smartphone"],
+      "title_exclude": [],
+      "todo": "GSMArena page-1 URL not yet confirmed for the Pixel lineup. Find the correct gsmarena.com/google-phones-XX.php URL, set gsmarena_url, then remove this 'todo' field. Until then this brand is skipped by the scraper (existing images remain as-is)."
+    }
+  ]
+}
