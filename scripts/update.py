@@ -15,6 +15,7 @@ import os
 import sys
 
 import converter
+import fetch_marketing_names
 import generate_manifest
 import scraper
 
@@ -40,6 +41,11 @@ def main() -> int:
         "--skip-convert", action="store_true", help="Skip the jpg -> png/webp conversion step"
     )
     parser.add_argument("--list", action="store_true", help="List configured brands and exit")
+    parser.add_argument(
+        "--update-marketing-names",
+        action="store_true",
+        help="Refresh device_marketing_names.json from Google's Play device catalog",
+    )
     args = parser.parse_args()
 
     brands = load_brands(brands_json_path)
@@ -113,6 +119,18 @@ def main() -> int:
         f.write("\n")
     total = sum(len(v) for v in manifest["brands"].values())
     print(f"Manifest: {len(manifest['brands'])} brands, {total} images")
+
+    if args.update_marketing_names:
+        marketing_names = fetch_marketing_names.generate_marketing_names(brands)
+        marketing_names_path = os.path.join(repo_root, "device_marketing_names.json")
+        with open(marketing_names_path, "w") as f:
+            json.dump(marketing_names, f, indent=2, sort_keys=True)
+            f.write("\n")
+        total_models = sum(len(v) for v in marketing_names["brands"].values())
+        print(
+            f"Marketing names: {len(marketing_names['brands'])} brands, "
+            f"{total_models} models"
+        )
 
     return 1 if had_failure else 0
 
