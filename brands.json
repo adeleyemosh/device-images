@@ -269,10 +269,9 @@
     {
       "slug": "google",
       "name": "Google",
-      "gsmarena_url": null,
+      "gsmarena_url": "https://www.gsmarena.com/google-phones-107.php",
       "title_include": ["Android smartphone"],
-      "title_exclude": [],
-      "todo": "GSMArena page-1 URL not yet confirmed for the Pixel lineup. Find the correct gsmarena.com/google-phones-XX.php URL, set gsmarena_url, then remove this 'todo' field. Until then this brand is skipped by the scraper (existing images remain as-is)."
+      "title_exclude": []
     }
   ]
 }
