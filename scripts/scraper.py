@@ -152,7 +152,11 @@ def scrape_brand(brand: dict, images_root: str, verbose: bool = True) -> ScrapeR
         for name, fname, img_url in parse_phones(page_content, include, exclude):
             base_lower = os.path.splitext(fname)[0].lower()
 
-            if base_lower in existing or base_lower in seen_in_run:
+            if (
+                base_lower in existing
+                or base_lower.lstrip("-") in existing
+                or base_lower in seen_in_run
+            ):
                 result.skipped += 1
                 continue
 
