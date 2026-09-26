@@ -13,6 +13,7 @@ import argparse
 import json
 import os
 import sys
+import time
 
 import converter
 import fetch_marketing_names
@@ -70,10 +71,12 @@ def main() -> int:
     total_downloaded = total_skipped = total_failed_scrape = 0
     total_converted = total_up_to_date = total_failed_convert = 0
 
-    for brand in selected:
+    for i, brand in enumerate(selected):
         slug = brand["slug"]
 
         if not args.skip_scrape:
+            if i > 0:
+                time.sleep(2)
             scrape_result = scraper.scrape_brand(brand, images_root, verbose=False)
             if scrape_result.skipped_reason:
                 print(f"[{slug}] scrape skipped: {scrape_result.skipped_reason}")

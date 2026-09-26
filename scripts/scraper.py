@@ -12,6 +12,7 @@ import io
 import os
 import re
 import time
+import urllib.error
 import urllib.request
 from dataclasses import dataclass, field
 
@@ -41,10 +42,17 @@ class ScrapeResult:
     skipped_reason: str | None = None
 
 
-def fetch(url: str) -> str:
+def fetch(url: str, retries: int = 4) -> str:
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries:
+                time.sleep(10 * (2**attempt))
+                continue
+            raise
 
 
 def title_matches(title: str, include: list[str], exclude: list[str]) -> bool:
