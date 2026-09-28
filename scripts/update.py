@@ -47,6 +47,17 @@ def main() -> int:
         action="store_true",
         help="Refresh device_marketing_names.json from Google's Play device catalog",
     )
+    parser.add_argument(
+        "--rotate-seed",
+        type=int,
+        default=None,
+        help=(
+            "Rotate the processing order by `seed %% len(selected)` positions "
+            "(e.g. an epoch-day count), so repeated runs that get cut short by "
+            "rate limiting start with a different brand each time instead of "
+            "always favoring the brands earliest in brands.json"
+        ),
+    )
     args = parser.parse_args()
 
     brands = load_brands(brands_json_path)
@@ -66,6 +77,10 @@ def main() -> int:
             return 1
     else:
         selected = brands
+
+    if args.rotate_seed is not None and selected:
+        offset = args.rotate_seed % len(selected)
+        selected = selected[offset:] + selected[:offset]
 
     had_failure = False
     total_downloaded = total_skipped = total_failed_scrape = 0

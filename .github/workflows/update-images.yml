@@ -23,10 +23,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Compute rotation seed
+        id: rotate
+        run: echo "seed=$(( $(date +%s) / 86400 ))" >> "$GITHUB_OUTPUT"
+
       - name: Scrape + convert + regenerate manifest
         id: update
         continue-on-error: true
-        run: python scripts/update.py --all --update-marketing-names
+        run: |
+          python scripts/update.py --all --update-marketing-names \
+            --rotate-seed ${{ steps.rotate.outputs.seed }}
 
       - name: Commit and push changes
         run: |
