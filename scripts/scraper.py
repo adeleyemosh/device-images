@@ -50,6 +50,11 @@ def fetch(url: str, retries: int = 4) -> str:
                 return resp.read().decode("utf-8", errors="replace")
         except urllib.error.HTTPError as e:
             if e.code == 429 and attempt < retries:
+                retry_after = e.headers.get("Retry-After") if e.headers else None
+                if retry_after is not None and retry_after.isdigit() and int(retry_after) > 60:
+                    # A long Retry-After means we're hard-blocked, not just
+                    # transiently throttled — retrying within this run can't help.
+                    raise
                 time.sleep(10 * (2**attempt))
                 continue
             raise
@@ -136,7 +141,12 @@ def scrape_brand(brand: dict, images_root: str, verbose: bool = True) -> ScrapeR
 
     if verbose:
         print(f"[{slug}] fetching page 1: {page1_url}")
-    content = fetch(page1_url)
+    try:
+        content = fetch(page1_url)
+    except Exception as e:
+        if verbose:
+            print(f"[{slug}] failed to fetch {page1_url}: {e}")
+        return ScrapeResult(slug=slug, skipped_reason=f"fetch failed: {e}")
     pages = discover_pages(page1_url, content)
     if verbose:
         print(f"[{slug}] {len(pages)} page(s)")
