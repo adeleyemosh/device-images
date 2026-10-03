@@ -14074,6 +14074,7 @@
       "a501so": "Xperia 1 VII",
       "a502so": "Xperia 10 VII",
       "a601so": "Xperia 1 VIII",
+      "a602so": "Xperia 10 VIII",
       "bravia 2015": "BRAVIA 4K 2015",
       "bravia 2k gb atv3": "BRAVIA 2K GB ATV3",
       "bravia 2k vh2": "BRAVIA VH2",
@@ -14437,6 +14438,7 @@
       "sog15": "Xperia 1 VII",
       "sog16": "Xperia 10 VII",
       "sog17": "Xperia 1 VIII",
+      "sog18": "Xperia 10 VIII",
       "sol23": "Xperia Z1",
       "sol24": "Xperia Z Ultra",
       "sol25": "Xperia ZL2",
@@ -14542,6 +14544,7 @@
       "xq-ge44": "Xperia 1 VIII",
       "xq-ge54": "Xperia 1 VIII",
       "xq-ge74": "Xperia 1 VIII",
+      "xq-gh44": "Xperia 10 VIII",
       "xq-gh54": "Xperia 10 VIII",
       "xq-gh74": "Xperia 10 VIII"
     },
@@ -18227,6 +18230,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-01T10:00:29.451601+00:00",
+  "generated_at": "2026-10-03T09:02:57.728168+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
