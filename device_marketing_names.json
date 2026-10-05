@@ -14719,6 +14719,7 @@
       "projectorc1": "ProjectorC1",
       "r3": "R3",
       "r3g": "R3_GTV",
+      "r3gs": "R3GS",
       "r4": "R4",
       "r4g": "R4_GTV",
       "sanyo tv": "Percee TV",
@@ -18230,6 +18231,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-03T09:02:57.728168+00:00",
+  "generated_at": "2026-10-05T10:16:08.504063+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
