@@ -11666,6 +11666,7 @@
       "sm-e156b": "Galaxy F15 5G",
       "sm-e166p": "Galaxy F16 5G",
       "sm-e176b": "Galaxy F17 5G",
+      "sm-e176e": "Galaxy F70 5G",
       "sm-e225f": "Galaxy F22",
       "sm-e236b": "Galaxy F23 5G",
       "sm-e346b": "Galaxy F34 5G",
@@ -17389,10 +17390,13 @@
       "z2474": "nubia A76",
       "z2570n": "Z2570N",
       "z2571n": "nubia Neo 5 5G",
-      "z2575": "Z2575",
+      "z2572n": "nubia Neo 5 Max",
+      "z2575": "ZTE V80 Vita",
       "z2576": "Z2576",
       "z2577": "Z2577",
       "z2581": "Z2581",
+      "z2582": "Z2582",
+      "z2586n": "ZTE A77 5G",
       "z3": "Ukraine, Kazakhstan, Azerbaijan",
       "z3001s": "sapphire lte",
       "z3153v": "Z3153V",
@@ -18231,6 +18235,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-05T10:16:08.504063+00:00",
+  "generated_at": "2026-10-07T10:06:18.988950+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
