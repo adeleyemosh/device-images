@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:06:18.485018+00:00",
+  "generated_at": "2026-10-09T10:22:02.430851+00:00",
   "brands": {
     "samsung": [
       "Samsung-G3812B-Galaxy-S3-Slim",
@@ -194,6 +194,7 @@
       "samsung-galaxy-f05",
       "samsung-galaxy-f06-5g",
       "samsung-galaxy-f07",
+      "samsung-galaxy-f08-",
       "samsung-galaxy-f12",
       "samsung-galaxy-f13",
       "samsung-galaxy-f14",
@@ -283,6 +284,7 @@
       "samsung-galaxy-m05",
       "samsung-galaxy-m06-5g",
       "samsung-galaxy-m07",
+      "samsung-galaxy-m08",
       "samsung-galaxy-m10-m105f",
       "samsung-galaxy-m10s-m107f",
       "samsung-galaxy-m11-sm-m115",
@@ -5869,6 +5871,7 @@
       "itel-vision-3-turbo",
       "itel-vision3",
       "itel-zeno-20-max",
+      "itel-zeno-300",
       "itel-zeno10",
       "itel-zeno20"
     ],
@@ -5942,6 +5945,9 @@
       "tcl-k70-se",
       "tcl-l10-pro",
       "tcl-nxtpaper-70-pro",
+      "tcl-p80",
+      "tcl-p80-pro",
+      "tcl-p80-ultra",
       "tcl-stylus-5g"
     ],
     "fairphone": [
@@ -6147,12 +6153,15 @@
       "apple-iphone-8-new",
       "apple-iphone-8-plus-new",
       "apple-iphone-air",
+      "apple-iphone-duo-fold",
       "apple-iphone-se-2020",
       "apple-iphone-se-2022",
       "apple-iphone-x",
       "apple-iphone-xr-new",
       "apple-iphone-xs-max-new1",
       "apple-iphone-xs-new",
+      "apple-iphone18-pro",
+      "apple-iphone18-pro-max",
       "apple-iphone3g",
       "apple-iphone4-cdma"
     ],

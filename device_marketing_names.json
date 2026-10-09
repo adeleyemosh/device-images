@@ -16502,6 +16502,7 @@
       "lithium": "MIX",
       "lotus": "MI  PLAY",
       "m025ec": "Xiaomi 17T Pro",
+      "m154ff": "Xiaomi 18 Pro Max",
       "m2002j9e": "Mi 10 Lite zoom",
       "m2002j9g": "Mi 10 lite 5G",
       "m2002j9s": "Mi 10 lite 5G",
@@ -16529,6 +16530,7 @@
       "m2105k81c": "Xiaomi Pad 5 Pro 5G",
       "m367fc": "Xiaomi Pad 9 Pro Max",
       "m531da": "Xiaomi 17T",
+      "m610bb": "Xiaomi 18 Pro",
       "meri": "MI 5C",
       "mi 10": "Mi 10",
       "mi 10 pro": "Mi 10 Pro",
@@ -18235,6 +18237,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-07T10:06:18.988950+00:00",
+  "generated_at": "2026-10-09T10:22:02.907360+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
