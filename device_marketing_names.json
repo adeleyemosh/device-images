@@ -8692,6 +8692,7 @@
       "ply110": "PLY110",
       "plz110": "OnePlus 15T",
       "pmb110": "OnePlus Ace 6 \u81f3\u5c0a\u7248",
+      "pyb110": "OnePlus 16",
       "pyr110": "\u4e00\u52a0 Turbo 6X Pro",
       "pys110": "PYS110",
       "s70a": "N1",
@@ -15147,6 +15148,7 @@
       "tecno kn4": "TECNO SPARK 50/50S",
       "tecno kn4n": "TECNO SPARK 50",
       "tecno kn8": "TECNO SPARK 50 5G",
+      "tecno kn8s": "TECNO SPARK 50S 5G",
       "tecno ko2": "TECNO POP 20C",
       "tecno ko5": "TECNO SPARK 50T",
       "tecno l6502s": "TECNO POP X5",
@@ -16208,8 +16210,11 @@
       "v2643": "V80 Lite 5G",
       "v2644": "V80 Lite 5G",
       "v2646": "Y11d",
+      "v2648": "V80",
+      "v2649": "V80",
       "v2650": "Y05i",
       "v2655": "Y600 5G",
+      "v2656": "X500 E",
       "vivo 1601": "1601",
       "vivo 1603": "Y55",
       "vivo 1606": "Y53",
@@ -18237,6 +18242,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-09T10:22:02.907360+00:00",
+  "generated_at": "2026-10-11T09:53:53.841038+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
