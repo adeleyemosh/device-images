@@ -2925,6 +2925,7 @@
       "ntn-l22": "HONOR 50 Lite",
       "ntn-lx1": "HONOR 50 Lite",
       "ntn-lx3": "HONOR 50 Lite",
+      "onl-w09": "HONOR Pad X7b",
       "pgt-n09": "HONOR Magic5",
       "pgt-n19": "HONOR Magic5 Pro",
       "pnm-n49": "HONOR Magic V6",
@@ -9066,6 +9067,7 @@
       "opd2510": "Pad Air5",
       "opd2511": "Pad 5 Pro",
       "opd2515": "Pad Mini",
+      "opd2516": "Pad Mini",
       "opd2601": "OPPO Pad 6",
       "opg01": "Find X2 Pro",
       "opg02": "OPG02_jp_kdi",
@@ -16206,7 +16208,10 @@
       "v2635": "Y500",
       "v2636": "Y31d",
       "v2637": "V70 Lite 5G",
+      "v2638": "Y32",
       "v2640": "S2 FE",
+      "v2641": "Y32",
+      "v2642": "Y32",
       "v2643": "V80 Lite 5G",
       "v2644": "V80 Lite 5G",
       "v2646": "Y11d",
@@ -18242,6 +18247,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-11T09:53:53.841038+00:00",
+  "generated_at": "2026-10-13T10:24:15.283592+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
