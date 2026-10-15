@@ -8693,7 +8693,9 @@
       "ply110": "PLY110",
       "plz110": "OnePlus 15T",
       "pmb110": "OnePlus Ace 6 \u81f3\u5c0a\u7248",
+      "pms110": "OnePlus Ace 7 Pro",
       "pyb110": "OnePlus 16",
+      "pyf110": "OnePlus Ace 7",
       "pyr110": "\u4e00\u52a0 Turbo 6X Pro",
       "pys110": "PYS110",
       "s70a": "N1",
@@ -9026,6 +9028,8 @@
       "cph2889": "A6s 5G",
       "cph2891": "A6k",
       "cph2895": "A6c",
+      "cph2911": "Find X10",
+      "cph2913": "Find X10 Pro Max",
       "cph2931": "F35 5G",
       "cph2967": "Reno16 F 5G",
       "cph3007": "K14 Lite",
@@ -9076,6 +9080,7 @@
       "opg05": "Reno13 A",
       "opg07": "Find X9",
       "opg08": "Reno15 A",
+      "opg09": "Find X10",
       "oppo a33m": "A33m",
       "oppo a35": "A35",
       "oppo a37": "A37",
@@ -9333,6 +9338,9 @@
       "pmk110": "Reno16 Pro",
       "pmm110": "PMM110",
       "pmt110": "A6s Pro 5G",
+      "pmw110": "Find X10",
+      "pmx110": "Find X10 Pro Max",
+      "pna110": "Find X10 E",
       "pyc110": "PYC110",
       "pyd110": "OPPO K15",
       "pye110": "A7 Pro 5G",
@@ -18247,6 +18255,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-13T10:24:15.283592+00:00",
+  "generated_at": "2026-10-15T08:11:33.330732+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
