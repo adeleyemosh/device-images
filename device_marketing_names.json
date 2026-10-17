@@ -2069,6 +2069,7 @@
       "k17": "C35",
       "k18": "CP12 Neo",
       "k21": "C35 Plus",
+      "k22": "coolpad K22",
       "k23": "K23",
       "karbonn titanium s5 plus": "Karbonn Titanium S5 Plus",
       "medion p5001": "MEDION P5001",
@@ -5223,6 +5224,7 @@
       "infinix x683b": "NOTE 8i",
       "infinix x6840": "SMART 20",
       "infinix x6840b": "SMART 20",
+      "infinix x6843b": "SMART 20e",
       "infinix x6850": "Infinix NOTE 40 Pro",
       "infinix x6850b": "Infinix NOTE 40S",
       "infinix x6851": "Infinix NOTE 40 Pro 5G",
@@ -16201,6 +16203,7 @@
       "v2608a": "X500 Pro",
       "v2608da": "X500 Pro",
       "v2609a": "X500",
+      "v2610": "X500 Pro Max",
       "v2611": "Y31d",
       "v2612a": "X300 E",
       "v2613": "Y51 Pro 5G",
@@ -16208,6 +16211,8 @@
       "v2615": "V70 Lite 5G",
       "v2617a": "Y600i m\u7248",
       "v2620a": "S60t",
+      "v2621": "X500 Pro",
+      "v2622": "X500 Pro",
       "v2626": "V80 Lite 5G",
       "v2627": "Y500",
       "v2628": "T5e",
@@ -18255,6 +18260,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-15T08:11:33.330732+00:00",
+  "generated_at": "2026-10-17T07:42:23.580643+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
