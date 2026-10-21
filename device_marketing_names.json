@@ -11686,6 +11686,7 @@
       "sm-e366b": "Galaxy F36 5G",
       "sm-e426b": "Galaxy F42 5G",
       "sm-e426s": "Galaxy Wide5",
+      "sm-e476b": "Galaxy F70 Pro 5G",
       "sm-e500f": "Galaxy E5",
       "sm-e500h": "Galaxy E5",
       "sm-e500m": "Galaxy E5",
@@ -12608,6 +12609,7 @@
       "sm-m405f": "Galaxy M40",
       "sm-m426b": "Galaxy M42 5G",
       "sm-m446k": "Galaxy Jump3",
+      "sm-m476b": "Galaxy M47 5G",
       "sm-m515f": "Galaxy M51",
       "sm-m526b": "Galaxy M52 5G",
       "sm-m526br": "Galaxy M52 5G",
@@ -15365,6 +15367,7 @@
       "armor x13": "Armor_X13",
       "armor x16": "Armor X16",
       "armor x16 pro": "Armor X33 Pro",
+      "armor x17 pro": "Armor X17 Ultra",
       "armor x17 ultra": "Armor X17 Pro",
       "armor x31": "Armor X31",
       "armor x31 pro": "Armor X31 Pro",
@@ -18260,6 +18263,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-19T08:43:36.391142+00:00",
+  "generated_at": "2026-10-21T08:28:59.198022+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
