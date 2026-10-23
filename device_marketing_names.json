@@ -11390,6 +11390,7 @@
       "sm-a325n": "Galaxy A32",
       "sm-a326b": "Galaxy A32 5G",
       "sm-a326br": "Galaxy A32 5G",
+      "sm-a326k": "Galaxy Jump",
       "sm-a326u": "Galaxy A32 5G",
       "sm-a326u1": "Galaxy A32 5G",
       "sm-a326w": "Galaxy A32 5G",
@@ -12877,6 +12878,7 @@
       "sm-s124dl": "Galaxy A02s",
       "sm-s127dl": "Galaxy A12",
       "sm-s134dl": "Galaxy A03s",
+      "sm-s135dl": "Galaxy A03s",
       "sm-s136dl": "Galaxy A13 5G",
       "sm-s146vl": "Galaxy A14 5G",
       "sm-s156v": "Galaxy A15 5G",
@@ -13106,6 +13108,7 @@
       "sm-t239m": "Galaxy Tab4 7.0",
       "sm-t2519": "Galaxy Tab Q",
       "sm-t255s": "Galaxy W",
+      "sm-t270": "SmartThings Home Tablet",
       "sm-t280": "Galaxy Tab A6",
       "sm-t285": "Galaxy Tab A 7.0",
       "sm-t285m": "Galaxy Tab A 7.0",
@@ -13241,6 +13244,7 @@
       "sm-t597p": "Galaxy Tab A (10.5&#34;)",
       "sm-t597v": "Galaxy Tab A (10.5&#34;)",
       "sm-t597w": "Galaxy Tab A (10.5)",
+      "sm-t630": "Galaxy Tab Active4 Pro",
       "sm-t636b": "Galaxy Tab Active4 Pro 5G",
       "sm-t636n": "Galaxy Tab Active4 Pro 5G",
       "sm-t638b": "Galaxy Tab Active4 Pro 5G",
@@ -13372,8 +13376,10 @@
       "sm-w2021": "\u4e09\u661f W21 5G",
       "sm-w2022": "\u4e09\u661fW22 5G",
       "sm-w7023": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W23 Flip",
+      "sm-w7024": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W24 Flip",
       "sm-w7025": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W25 Flip",
       "sm-w9023": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W23",
+      "sm-w9024": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W24",
       "sm-w9025": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W25",
       "sm-w9026": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W26",
       "sm-x110": "Galaxy Tab A9",
@@ -18263,6 +18269,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-21T08:28:59.198022+00:00",
+  "generated_at": "2026-10-23T08:26:24.006388+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
