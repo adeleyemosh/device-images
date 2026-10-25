@@ -9030,6 +9030,7 @@
       "cph2889": "A6s 5G",
       "cph2891": "A6k",
       "cph2895": "A6c",
+      "cph2909": "A7 Pro Max 5G",
       "cph2911": "Find X10",
       "cph2913": "Find X10 Pro Max",
       "cph2931": "F35 5G",
@@ -18269,6 +18270,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-23T08:26:24.006388+00:00",
+  "generated_at": "2026-10-25T08:18:28.607480+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
