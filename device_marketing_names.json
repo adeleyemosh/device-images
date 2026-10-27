@@ -2847,6 +2847,7 @@
       "gfy-lx2": "HONOR X5b",
       "gfy-lx2p": "HONOR X5b Plus",
       "gfy-lx3": "HONOR X5b",
+      "hes-w00": "\u8363\u8000WIN\u5e73\u677f",
       "hey-w09": "HONOR Pad 8",
       "hey2-n09": "HONOR Pad 9",
       "hey2-w09": "HONOR Pad 9",
@@ -16209,7 +16210,7 @@
       "v2604": "V70 Lite",
       "v2606": "Y05e",
       "v2607": "T5 5G",
-      "v2607a": "Y600 AI",
+      "v2607a": "Y600 AI\u7248",
       "v2608a": "X500 Pro",
       "v2608da": "X500 Pro",
       "v2609a": "X500",
@@ -16232,6 +16233,7 @@
       "v2636": "Y31d",
       "v2637": "V70 Lite 5G",
       "v2638": "Y32",
+      "v2639": "Y32 5G",
       "v2640": "S2 FE",
       "v2641": "Y32",
       "v2642": "Y32",
@@ -18270,6 +18272,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-25T08:18:28.607480+00:00",
+  "generated_at": "2026-10-27T08:52:16.482793+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }

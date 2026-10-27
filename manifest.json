@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:18:28.364644+00:00",
+  "generated_at": "2026-10-27T08:52:16.297582+00:00",
   "brands": {
     "samsung": [
       "Samsung-G3812B-Galaxy-S3-Slim",
@@ -2127,6 +2127,7 @@
       "xiaomi-note-11-pro-plus-5g",
       "xiaomi-note-2015",
       "xiaomi-note-pro2",
+      "xiaomi-poco-c-95-pro",
       "xiaomi-poco-c3",
       "xiaomi-poco-c31",
       "xiaomi-poco-c40",
@@ -2203,6 +2204,7 @@
       "xiaomi-poco-x8-power",
       "xiaomi-poco-x8-pro",
       "xiaomi-poco-x8-pro-max",
+      "xiaomi-poco-x8s",
       "xiaomi-pocophone-f1-",
       "xiaomi-redmi-10-",
       "xiaomi-redmi-10-5g",
@@ -2581,6 +2583,9 @@
       "honor-win",
       "honor-win-rt",
       "honor-win-turbo-",
+      "honor-win-turbo2",
+      "honor-win2",
+      "honor-win2-rt",
       "honor-x10-5g",
       "honor-x10-max",
       "honor-x100",
@@ -2605,6 +2610,7 @@
       "honor-x5c-plus-r",
       "honor-x5d",
       "honor-x5d-plus",
+      "honor-x5d-s",
       "honor-x6",
       "honor-x60",
       "honor-x60-gt",
