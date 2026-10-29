@@ -8290,6 +8290,7 @@
       "xt2453-2": "motorola razr 50",
       "xt2533-4": "moto g67 power 5G",
       "xt2551-3": "motorola razr 60 ultra",
+      "xt2571-1": "moto pad 60 pro",
       "xt2575-1": "moto pad 60 neo",
       "xt2575-3": "moto pad 60 neo",
       "xt2575-4": "moto pad \u2013 2026",
@@ -15363,6 +15364,7 @@
       "armor pad": "Armor Pad",
       "armor pad 2": "Armor Pad 2",
       "armor pad 3 pro": "ArmorPad3Pro_EEA",
+      "armor pad 4": "Armor Pad 4",
       "armor pad 4 ultra": "Armor Pad 4 Ultra",
       "armor pad 5 pro": "Armor Pad 5 Pro",
       "armor pad 5 ultra": "Armor Pad 5 Ultra",
@@ -18272,6 +18274,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-27T08:52:16.482793+00:00",
+  "generated_at": "2026-10-29T09:45:49.573362+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
