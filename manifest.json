@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:45:49.346152+00:00",
+  "generated_at": "2026-10-31T09:30:23.769290+00:00",
   "brands": {
     "samsung": [
       "Samsung-G3812B-Galaxy-S3-Slim",
@@ -2464,6 +2464,7 @@
       "honor-600-pro-cn",
       "honor-600-smart-5g",
       "honor-600e",
+      "honor-600s-5g",
       "honor-70",
       "honor-70-lite",
       "honor-70-pro",
@@ -2651,6 +2652,7 @@
       "honor-x9c",
       "honor-x9c-smart",
       "honor-x9e-pro",
+      "honor-x9es",
       "huawei-8a-pro",
       "huawei-honor",
       "huawei-honor-10-",
@@ -3346,6 +3348,8 @@
       "oneplus-ace-5-ultra",
       "oneplus-ace-6-ultra",
       "oneplus-ace-6t",
+      "oneplus-ace-7",
+      "oneplus-ace-7-pro",
       "oneplus-ace-race",
       "oneplus-ace2",
       "oneplus-ace3",

@@ -15377,6 +15377,7 @@
       "armor x13": "Armor_X13",
       "armor x16": "Armor X16",
       "armor x16 pro": "Armor X33 Pro",
+      "armor x17": "Armor X17",
       "armor x17 pro": "Armor X17 Ultra",
       "armor x17 ultra": "Armor X17 Pro",
       "armor x31": "Armor X31",
@@ -18274,6 +18275,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-29T09:45:49.573362+00:00",
+  "generated_at": "2026-10-31T09:30:24.359358+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
