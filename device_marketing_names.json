@@ -9349,7 +9349,7 @@
       "pyc110": "PYC110",
       "pyd110": "OPPO K15",
       "pye110": "A7 Pro 5G",
-      "pye130": "A7 Pro 5G",
+      "pye130": "K15s",
       "r1001": "R1001",
       "r1011": "R1011w",
       "r2001": "R2001",
@@ -18275,6 +18275,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-10-31T09:30:24.359358+00:00",
+  "generated_at": "2026-11-01T10:19:25.862525+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
