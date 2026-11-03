@@ -9822,6 +9822,7 @@
       "philips s8325": "Philips S8325",
       "philips smart 2k tv": "Philips Smart 2K TV",
       "philips smart 4k tv": "Philips Smart 4K TV",
+      "philips smart 4k tv nf": "Philips Smart 4K TV NF",
       "philips tv": "Smart TV",
       "philips uhd android tv": "Philips Android TV",
       "philips v377": "Xenium V377",
@@ -13385,6 +13386,7 @@
       "sm-w9024": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W24",
       "sm-w9025": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W25",
       "sm-w9026": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W26",
+      "sm-w9027": "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W27",
       "sm-x110": "Galaxy Tab A9",
       "sm-x115": "Galaxy Tab A9",
       "sm-x115n": "Galaxy Tab A9",
@@ -18275,6 +18277,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-01T10:19:25.862525+00:00",
+  "generated_at": "2026-11-03T10:42:24.459035+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
