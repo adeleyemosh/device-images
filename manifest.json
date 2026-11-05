@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:42:24.289303+00:00",
+  "generated_at": "2026-11-05T10:45:26.244103+00:00",
   "brands": {
     "samsung": [
       "Samsung-G3812B-Galaxy-S3-Slim",
@@ -771,6 +771,7 @@
       "motorola-moto-g41-pearl-gold",
       "motorola-moto-g42-r",
       "motorola-moto-g45-5g",
+      "motorola-moto-g47-power",
       "motorola-moto-g5-plus1",
       "motorola-moto-g5-r1",
       "motorola-moto-g50-5g",
@@ -3660,6 +3661,7 @@
       "vivo-v70-fe",
       "vivo-v70-lite",
       "vivo-v80",
+      "vivo-v80-fe",
       "vivo-v80-lite",
       "vivo-v9-",
       "vivo-x-flip",
@@ -4643,7 +4645,8 @@
     "rugone": [
       "rugone-xever-7-pro",
       "rugone-xever7",
-      "rugone-xever8"
+      "rugone-xever8",
+      "rugone-xsnap-7-pro"
     ],
     "umidigi": [
       "umidigi-a11",
@@ -4736,6 +4739,7 @@
       "coolpad-cool-play-6-",
       "coolpad-cool-s",
       "coolpad-cool-s1",
+      "coolpad-cool-x-wide",
       "coolpad-cool10",
       "coolpad-cool12a",
       "coolpad-cool20-plus",
@@ -4779,6 +4783,8 @@
       "blackview-oscal-s80",
       "blackview-oscal-tiger10",
       "blackview-oscal-tiger12",
+      "oscal-flat-3c",
+      "oscal-flat-3c-mini",
       "oscal-flat2",
       "oscal-flat2c",
       "oscal-marine1",
@@ -5443,6 +5449,8 @@
       "tecno-spark-5",
       "tecno-spark-5-air",
       "tecno-spark-50-pro",
+      "tecno-spark-50c",
+      "tecno-spark-50s-5g",
       "tecno-spark-6-go",
       "tecno-spark-7",
       "tecno-spark-7-pro",
@@ -5759,6 +5767,8 @@
       "oukitel-c17",
       "oukitel-c17-mini",
       "oukitel-c17-plus",
+      "oukitel-c18",
+      "oukitel-c18-pro-max",
       "oukitel-c2",
       "oukitel-c26-",
       "oukitel-c26-mini",
@@ -6105,6 +6115,8 @@
       "philips-s6206",
       "philips-s6210-essence-10",
       "philips-s6310-essence-20",
+      "philips-s7220",
+      "philips-s7221",
       "philips-t3566",
       "philips-t539",
       "philips-t910",

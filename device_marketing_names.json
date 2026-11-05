@@ -8137,7 +8137,8 @@
       "motorola razr plus 2026": "motorola razr plus 2026",
       "motorola razr ultra 2025": "motorola razr ultra 2025",
       "motorola razr ultra 2026": "motorola razr ultra 2026",
-      "motorola signature": "motorola signature",
+      "motorola signature": "motorola signature 27",
+      "motorola signature 27": "motorola signature 27",
       "motorola smart tv": "MOTOROLA SMART TV",
       "motorola titanium": "Opus One",
       "motorola tv": "Motorola TV",
@@ -13621,7 +13622,7 @@
       "aquos-4ktvj25-1": "4T-C**HP1/HS1/HQ1/HV1",
       "aquos-4ktvj25-2": "4T-C**HP2/HQ2/HN2",
       "aquos-4ktvj26-1": "4T-**S9A/X9A",
-      "aquos-4ktvj26-2": "4T-**S7A/X7A",
+      "aquos-4ktvj26-2": "4T-**S7A/X7A/X5A, 4T-48S9A",
       "aquos-4ktvt17": "LC-UA6800T/4T-C**AM1T",
       "aquos-4ktvx17": "LC-UA6800X",
       "aquos-8ktvj19": "8T-C**BW1",
@@ -18277,6 +18278,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-03T10:42:24.459035+00:00",
+  "generated_at": "2026-11-05T10:45:26.349689+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
