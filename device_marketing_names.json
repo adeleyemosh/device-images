@@ -16509,7 +16509,10 @@
       "2506bpn68r": "Xiaomi 15T Pro",
       "25079rpdcg": "Xiaomi Pad Mini",
       "25091rp04c": "Xiaomi Pad 8 Pro",
+      "25091rp04g": "Xiaomi Pad 8 Pro",
       "25097rp43c": "Xiaomi Pad 8",
+      "25097rp43g": "Xiaomi Pad 8",
+      "25097rp43i": "Xiaomi Pad 8",
       "25098pn5ac": "Xiaomi 17 Pro",
       "2509fpn0bc": "Xiaomi 17 Pro Max",
       "25113pn0ec": "Xiaomi 17",
@@ -16525,6 +16528,7 @@
       "2602eptc0r": "Xiaomi 17T Pro",
       "2605epn8ec": "Xiaomi 17 Max",
       "2608bpx34c": "Xiaomi 18 Fold",
+      "2612crpffc": "Xiaomi Pad 9 Pro",
       "a201xm": "Xiaomi 12T Pro",
       "a301xm": "Xiaomi 13T Pro",
       "a402xm": "Xiaomi 14T Pro",
@@ -16578,6 +16582,7 @@
       "m367fc": "Xiaomi Pad 9 Pro Max",
       "m531da": "Xiaomi 17T",
       "m610bb": "Xiaomi 18 Pro",
+      "m656ba": "Xiaomi Pad 9",
       "meri": "MI 5C",
       "mi 10": "Mi 10",
       "mi 10 pro": "Mi 10 Pro",
@@ -18284,6 +18289,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-09T11:14:50.197958+00:00",
+  "generated_at": "2026-11-11T10:38:06.225228+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
