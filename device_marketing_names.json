@@ -2072,6 +2072,7 @@
       "k21": "C35 Plus",
       "k22": "coolpad K22",
       "k23": "K23",
+      "k29": "X200",
       "karbonn titanium s5 plus": "Karbonn Titanium S5 Plus",
       "medion p5001": "MEDION P5001",
       "mobok1": "MOBODO MOBO K1",
@@ -9082,6 +9083,8 @@
       "opd2515": "Pad Mini",
       "opd2516": "Pad Mini",
       "opd2601": "OPPO Pad 6",
+      "opd2613": "Pad Air6",
+      "opd2614": "Pad Air6",
       "opg01": "Find X2 Pro",
       "opg02": "OPG02_jp_kdi",
       "opg03": "Find X3 Pro",
@@ -18289,6 +18292,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-11T10:38:06.225228+00:00",
+  "generated_at": "2026-11-13T10:47:46.497193+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
