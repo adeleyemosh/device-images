@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:38:52.274557+00:00",
+  "generated_at": "2026-11-17T11:46:53.365736+00:00",
   "brands": {
     "samsung": [
       "Samsung-G3812B-Galaxy-S3-Slim",
@@ -900,6 +900,7 @@
       "motorola-shadow",
       "motorola-signature",
       "motorola-signature-27",
+      "motorola-signature-27-new",
       "motorola-spice",
       "motorola-spice-key-xt317",
       "motorola-thinkphone",
@@ -2490,6 +2491,7 @@
       "honor-9x-global",
       "honor-9x-global-new",
       "honor-9x-pro",
+      "honor-choice-t10",
       "honor-gt-new",
       "honor-gt-pro",
       "honor-magic-2",
@@ -3006,6 +3008,8 @@
       "oppo-reno16-f",
       "oppo-reno16-pro",
       "oppo-reno16-pro-cn",
+      "oppo-reno17-cn",
+      "oppo-reno17-pro-cn",
       "oppo-reno2",
       "oppo-reno2z-2f",
       "oppo-reno3-",
@@ -6116,6 +6120,7 @@
       "philips-s6206",
       "philips-s6210-essence-10",
       "philips-s6310-essence-20",
+      "philips-s7210",
       "philips-s7220",
       "philips-s7221",
       "philips-t3566",

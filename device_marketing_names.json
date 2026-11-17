@@ -13928,6 +13928,7 @@
       "sh-53d": "AQUOS wish3",
       "sh-53e": "AQUOS sense9",
       "sh-53f": "AQUOS sense10",
+      "sh-53g": "AQUOS sense11",
       "sh-54b": "AQUOS sense6",
       "sh-54d": "AQUOS sense8",
       "sh-54e": "AQUOS R9 pro",
@@ -16268,6 +16269,7 @@
       "v2667": "T6 Lite 5G",
       "v2669": "Y11s 5G",
       "v2670": "Y21s 5G",
+      "v2675": "V80 Lite 5G",
       "vivo 1601": "1601",
       "vivo 1603": "Y55",
       "vivo 1606": "Y53",
@@ -18300,6 +18302,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-15T10:38:52.438411+00:00",
+  "generated_at": "2026-11-17T11:46:53.551578+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
