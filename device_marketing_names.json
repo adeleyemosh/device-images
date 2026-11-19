@@ -10268,8 +10268,8 @@
       "tv stick": "TV Stick"
     },
     "rugone": {
-      "xever 7": "Xever 7 Pro",
-      "xever 7 pro": "Xever 7 Pro Thermal",
+      "xever 7": "Xever 7",
+      "xever 7 pro": "Xever 7 Pro",
       "xever 8": "Xever 8",
       "xsnap 7 pro": "Xsnap 7 Pro"
     },
@@ -13624,6 +13624,7 @@
       "a602sh": "AQUOS R11",
       "a603sh": "AQUOS wish6",
       "a604sh": "AQUOS wish6",
+      "a605sh": "AQUOS sense11",
       "an-np40": "AN-NP40",
       "aquos-2ktvj24-2": "2T-C**GF1/GF2",
       "aquos-4ktvj17": "LC-US5/LC-UH5/4T-C**AJ1/4T-C70AU1",
@@ -13975,6 +13976,7 @@
       "sh-m34": "AQUOS wish5s",
       "sh-m35": "AQUOS R11",
       "sh-m36": "AQUOS wish6",
+      "sh-m37": "AQUOS sense11",
       "sh-r10a": "AQUOS R3 SH-R10A",
       "sh-r50": "AQUOS R5G SH-R50",
       "sh-r80": "AQUOS R8",
@@ -16266,7 +16268,9 @@
       "v2650": "Y05i",
       "v2655": "Y600 5G",
       "v2656": "X500 E",
+      "v2664": "Y05",
       "v2667": "T6 Lite 5G",
+      "v2668": "Y05s",
       "v2669": "Y11s 5G",
       "v2670": "Y21s 5G",
       "v2675": "V80 Lite 5G",
@@ -18302,6 +18306,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-17T11:46:53.551578+00:00",
+  "generated_at": "2026-11-19T11:27:05.196703+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
