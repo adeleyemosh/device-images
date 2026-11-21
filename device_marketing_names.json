@@ -12788,6 +12788,7 @@
       "sm-n986u": "Galaxy Note20 Ultra 5G",
       "sm-n986u1": "Galaxy Note20 Ultra 5G",
       "sm-n986w": "Galaxy Note20 Ultra 5G",
+      "sm-o200p": "Intelligent Eyewear",
       "sm-p200": "Galaxy Tab A with S Pen",
       "sm-p205": "Galaxy Tab A with S Pen",
       "sm-p350": "Galaxy Tab A 8.0",
@@ -15193,6 +15194,7 @@
       "tecno kn8": "TECNO SPARK 50 5G",
       "tecno kn8s": "TECNO SPARK 50S 5G",
       "tecno ko2": "TECNO POP 20C",
+      "tecno ko3": "TECNO SPARK 50C",
       "tecno ko5": "TECNO SPARK 50T",
       "tecno l6502s": "TECNO POP X5",
       "tecno l8 lite": "L8 Lite",
@@ -18306,6 +18308,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-19T11:27:05.196703+00:00",
+  "generated_at": "2026-11-21T10:52:58.346094+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
