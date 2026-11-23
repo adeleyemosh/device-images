@@ -5261,6 +5261,7 @@
       "infinix x6885": "Infinix HOT 60 Pro",
       "infinix x6886": "HOT 60 Pro+",
       "infinix x6887": "NOTE Edge",
+      "infinix x6887c": "Infinix NOTE Edge",
       "infinix x688b": "HOT Play",
       "infinix x688c": "HOT Play",
       "infinix x689": "Infinix HOT 10S",
@@ -5385,6 +5386,7 @@
       "itel a632wm": "itel A04",
       "itel a6610l": "itel A90",
       "itel a6611l": "itel A100C",
+      "itel a6613l": "itel A300X",
       "itel a661l": "A49",
       "itel a661w": "A58",
       "itel a661wp": "A58 Pro",
@@ -8084,9 +8086,11 @@
       "motorola edge 60 stylus": "motorola edge 60 stylus",
       "motorola edge 60s pro": "motorola edge 60s pro",
       "motorola edge 70": "motorola edge 70",
-      "motorola edge 70 fusion": "motorola edge 70 fusion",
+      "motorola edge 70 fusion": "motorola edge 70 plus",
       "motorola edge 70 fusion plus": "motorola edge 70 fusion +",
       "motorola edge 70 max": "motorola edge 70 max",
+      "motorola edge 70 neo": "motorola edge 70 neo",
+      "motorola edge 70 plus": "motorola edge 70 plus",
       "motorola edge 70 pro": "motorola edge 70 pro",
       "motorola edge 70 pro+": "motorola edge 70 pro+",
       "motorola edge plus": "motorola edge plus",
@@ -9095,7 +9099,6 @@
       "opg05": "Reno13 A",
       "opg07": "Find X9",
       "opg08": "Reno15 A",
-      "opg09": "Find X10",
       "oppo a33m": "A33m",
       "oppo a35": "A35",
       "oppo a37": "A37",
@@ -18308,6 +18311,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-21T10:52:58.346094+00:00",
+  "generated_at": "2026-11-23T12:07:11.926653+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
