@@ -9090,8 +9090,11 @@
       "opd2515": "Pad Mini",
       "opd2516": "Pad Mini",
       "opd2601": "OPPO Pad 6",
+      "opd2604": "Pad 6 F/Pad 6 F Matte Display Edition",
+      "opd2605": "Pad 6 F/Pad 6 F Matte Display Edition",
       "opd2613": "Pad Air6",
       "opd2614": "Pad Air6",
+      "opd2615": "Pad 6 F Lite Edition",
       "opg01": "Find X2 Pro",
       "opg02": "OPG02_jp_kdi",
       "opg03": "Find X3 Pro",
@@ -16252,6 +16255,7 @@
       "v2620a": "S60t",
       "v2621": "X500 Pro",
       "v2622": "X500 Pro",
+      "v2624": "V80 FE",
       "v2626": "V80 Lite 5G",
       "v2627": "Y500",
       "v2628": "T5e",
@@ -18311,6 +18315,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-23T12:07:11.926653+00:00",
+  "generated_at": "2026-11-25T12:28:59.922347+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
