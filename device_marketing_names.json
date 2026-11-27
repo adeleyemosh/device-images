@@ -13628,6 +13628,7 @@
       "a502sh": "AQUOS wish5",
       "a504sh": "AQUOS R9 pro",
       "a505sh": "AQUOS sense10",
+      "a601sh": "\u30b7\u30f3\u30d7\u30eb\u30b9\u30de\u30db8",
       "a602sh": "AQUOS R11",
       "a603sh": "AQUOS wish6",
       "a604sh": "AQUOS wish6",
@@ -18315,6 +18316,6 @@
       "zxy-zte_v6700": "ZXY-ZTE_V6700"
     }
   },
-  "generated_at": "2026-11-25T12:28:59.922347+00:00",
+  "generated_at": "2026-11-27T11:59:37.867138+00:00",
   "source": "https://storage.googleapis.com/play_public/supported_devices.html"
 }
